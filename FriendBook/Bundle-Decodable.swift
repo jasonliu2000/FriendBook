@@ -6,7 +6,7 @@
 //  Copyright © 2020 Jason Liu. All rights reserved.
 //
 
-import Foundation
+import Foundation 
 
 // see Project 8, Bundle-Decodable.swift
 // I put decode() function as an extension of Bundle so that all views are able to use it (FriendView needs to use it for its Preview struct)
